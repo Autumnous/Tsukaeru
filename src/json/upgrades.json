@@ -1,0 +1,62 @@
+{
+    "paint": {
+        "name": "Paint",
+        "price": "15000",
+        "hourly": "15",
+        "percentBoost": "1"
+    },
+    "decor": {
+        "name": "Decoration",
+        "price": "35000",
+        "hourly": "30",
+        "percentBoost": "3.5"
+    },
+    "music": {
+        "name": "Music",
+        "price": "40000",
+        "hourly": "30",
+        "percentBoost": "5"
+    },
+    "light": {
+        "name": "Better Lighting",
+        "price": "50000",
+        "hourly": "35",
+        "percentBoost": "5"
+    },
+    "bathrooms": {
+        "name": "Nicer Bathrooms",
+        "price": "60000",
+        "hourly": "50",
+        "percentBoost": "6"
+    },
+    "selfservice": {
+        "name": "Self Service",
+        "price": "75000",
+        "hourly": "60",
+        "percentBoost": "7.5"
+    },
+    "food": {
+        "name": "Higher Food Quality",
+        "price": "90000",
+        "hourly": "65",
+        "percentBoost": "7.5"
+    },
+    "marketing": {
+        "name": "Marketing",
+        "price": "125000",
+        "hourly": "75",
+        "percentBoost": "9"
+    },
+    "appliances": {
+        "name": "Better Appliances",
+        "price": "150000",
+        "hourly": "100",
+        "percentBoost": "9"
+    },
+    "floor": {
+        "name": "2nd Floor",
+        "price": "165000",
+        "hourly": "150",
+        "percentBoost": "10"
+    }
+}
